@@ -215,8 +215,8 @@ Here, we will create environments from files to ensure you install the library v
 | Name          |Part(s)    | Chapters        | Path |
 |---------------|-----------|-----------------|----------------------------------------------|
 | ml4t          |1, 2 & 3   | 2-16, appendix  |  installation/{linux &#x7c; macos &#x7c; windows}/ml4t.yml    |
-| ml4t-dl       |4          | 17-22           | installation//{linux &#x7c; macos &#x7c; windows}/ml4t_dl.yml   |
-| ml4t-zipline  | all | throughout           |  installation/linux/ml4t_zipline.yml   |
+| ml4t-dl       |4          | 17-22           | installation//{linux &#x7c; macos &#x7c; windows}/ml4t-dl.yml   |
+| ml4t-zipline  | all | throughout           |  installation/linux/ml4t-zipline.yml   |
 
 > *the Deep Reinforcement Learning examples require TensorFlow 2.2, which currently is only available via `conda` for GPUC; the notebooks contain instructions for upgrading via `pip`. 
 
